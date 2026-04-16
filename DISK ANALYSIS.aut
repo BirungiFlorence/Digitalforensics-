@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2026/04/16 05:36:40 (EAT)</CreatedDate>
+  <ModifiedDate>2026/04/16 05:36:54 (EAT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.22.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.22.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>disk_analysis_20260416_053640</Name>
+    <DisplayName>DISK ANALYSIS</DisplayName>
+    <Number>CASE-001</Number>
+    <Examiner>BIRUNGI FLORENCE</Examiner>
+    <ExaminerPhone>0703474902</ExaminerPhone>
+    <ExaminerEmail>burungiflorence2@gmail.com</ExaminerEmail>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
